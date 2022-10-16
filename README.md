@@ -23,6 +23,7 @@ In creating this application the following was undertaken:
 ## Usage
 
 To view the repository please follow this link: (https://github.com/NT399/README-generator)
+Video walkthrough link: (https://drive.google.com/file/d/141SFMIXCy_Jfzw-pNiK_l2YLWvQKp8nn/view)
 
 To use the application, please follow the steps below:
 1. Clone the repository into your local drive. 
